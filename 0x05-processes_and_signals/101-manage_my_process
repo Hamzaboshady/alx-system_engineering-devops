@@ -9,7 +9,6 @@ then
 echo "Usage: manage_my_process {start|stop|restart}"
 exit
 fi
-
 # executet the command line arguments
 if [ "$1" == "start" ]
 then
